@@ -1,2 +1,2 @@
-# alpine_js_searchable_input
+# Alpine.js searchable input
 searchable input made with alpine.js
